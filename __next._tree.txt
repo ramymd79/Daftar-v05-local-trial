@@ -1,0 +1,3 @@
+:HL["/Daftar-v05-local-trial/_next/static/css/9ef89d9d080f807f.css","style"]
+1:[["children",{"s":"__PAGE__","h":160}]]
+0:{"b":"JDZ4C5oPVYyMIcqv54jox","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
