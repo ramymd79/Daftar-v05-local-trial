@@ -1,4 +1,4 @@
 :HL["/Daftar-v05-local-trial/_next/static/css/9ef89d9d080f807f.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"contractors","h":96,"c":"$Q2"}]]
-0:{"b":"JDZ4C5oPVYyMIcqv54jox","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"XtOyYdFzEm7TFz2Tf8dlS","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
